@@ -1,4 +1,4 @@
-# weather-cheacker
+# weather-checker
 
 Api weather checker with html, css and javascript.
 
